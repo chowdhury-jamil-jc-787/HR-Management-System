@@ -1,0 +1,29 @@
+*{margin:0;padding:0;outline:0;}
+body {
+    background-image: url(image/flower.jpg);
+   
+    background-attachment: fixed;
+     background-size: 100% 100%;
+
+}
+.size {
+    padding-top: 260px;
+    font-size: 28px;
+    padding-left: 751px;
+}
+.size input {
+    width: 400px;
+    height: 35px;
+    font-size: 19px;
+}
+.Gendersub input {
+    background-color: #2AC2D1;
+    color: black;
+    width: 234px;
+    height: 43px;
+    margin-top: 14px;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 931px;
+}

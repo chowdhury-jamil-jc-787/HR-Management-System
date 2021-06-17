@@ -1,0 +1,32 @@
+.button1 {
+    background-color: #C400A9;
+    border: none;
+    color: white;
+    padding: 11px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 101px;
+}
+.button1:hover {
+  background-color: #1899E1;
+  color: white;
+}
+.header{
+    
+    padding-left: 518px;
+    padding-top: 225px;
+
+}
+.badge {
+    position: absolute;
+    top: 216px;
+    right: 625px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+}

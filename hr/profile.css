@@ -1,0 +1,190 @@
+*{margin:0;padding:0;outline:0;}
+.header {
+ background-color: #171717;
+ padding-left: 130px;
+ height: 84px;
+ padding-top: 20px;
+}
+.subheader{
+color: #FFFFFF;
+padding-left: 332px;
+}
+.button1 {
+ background-color: #171717;
+ border: none;
+ color: white;
+ padding: 11px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ transition-duration: 0.4s;
+ cursor: pointer;
+ margin-left: -64px;
+ margin-top: 14px;
+}
+.button1:hover {
+ background-color: #1899E1;
+ color: white;
+}
+.button2 {
+ background-color: #171717;
+ border: none;
+ color: white;
+ padding: 11px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ transition-duration: 0.4s;
+ cursor: pointer;
+ margin-left: 0px;
+ margin-top: 14px;
+}
+.button2:hover {
+ background-color: #1899E1;
+ color: white;
+}
+.button3 {
+ background-color: #171717;
+ border: none;
+ color: white;
+ padding: 11px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ transition-duration: 0.4s;
+ cursor: pointer;
+ margin-left: 0px;
+ margin-top: 14px;
+}
+.button3:hover {
+ background-color: #1899E1;
+ color: white;
+}
+.button4 {
+ background-color: #171717;
+ border: none;
+ color: white;
+ padding: 11px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ transition-duration: 0.4s;
+ cursor: pointer;
+ margin-left: 0px;
+ margin-top: 14px;
+}
+.button4:hover {
+ background-color: #1899E1;
+ color: white;
+}
+.button5 {
+ background-color: #171717;
+ border: none;
+ color: white;
+ padding: 11px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ transition-duration: 0.4s;
+ cursor: pointer;
+ margin-left: 0px;
+ margin-top: 14px;
+}
+.button5:hover {
+ background-color: #1899E1;
+ color: white;
+}
+.logo {
+ padding-left: 1008px;
+ margin-top: -33px;
+}
+.main{
+ padding-left: 245px;
+}
+.option1{
+ margin-top: -397px;
+}
+.option1 b {
+ font-size: 55px;
+ padding-left: 109px;
+}
+.suboption {
+ width: 163px;
+ padding-top: 17px;
+ padding-left: 114px;
+}
+.option2 {
+ padding-left: 999px;
+ margin-top: -135px;
+}
+.option2 b {
+font-size: 33px;
+}
+.suboption2 {
+ width: 198px;
+ padding-top: 16px;
+ font-size: 18px;
+}
+.port{
+ padding-top: 260px;
+}
+.port b{
+ font-size: 41px;
+ padding-left: 135px;
+}
+.vi{
+margin-left: 35px;
+ margin-right: 35px;
+}
+.skill {
+ padding-top: 104px;
+ padding-left: 130px;
+}
+.skill b{
+font-size: 58px;
+}
+.bar{
+font-size: 35px;
+}
+.option2 button {
+ width: 102px;
+ height: 30px;
+ background-color: #3071A9;
+}
+#myDIV {
+
+ width: 196px;
+ padding: 6px 0;
+ text-align: center;
+ background-color: lightblue;
+ box-sizing: border-box;
+ box-shadow: 0 5px 15px rgb(255,0,0);
+ margin-top: 20px;
+ margin-left: 1150px;
+}
+.footer{
+margin-top: 19px;
+background-color: #01F3E5;
+ height: 221px;
+}
+.h{
+ margin-top: -221px;
+ margin-left: 419px;
+}
+.address {
+ margin-top: -146px;
+ margin-left: 137px;
+}
+.copy {
+ margin-top: 52px;
+ margin-left: 110px;
+}
+.contact {
+ margin-left: 975px;
+ margin-top: -145px;
+}

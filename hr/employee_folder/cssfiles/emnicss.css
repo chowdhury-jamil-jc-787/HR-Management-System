@@ -1,0 +1,45 @@
+.ok , .createmsg{
+	width:90%;
+	max-width: 90%;
+	margin:20px auto;
+	padding:10px;
+	outline: none;
+	font-size: 24px;
+	border-radius: 3px;
+	background: rgba(255,255,255, .4);
+}
+.all , #create{
+	 width: 100%;
+	display: none;
+	color: grey;
+	word-wrap: break-word;
+}
+#label{
+	text-align: center;
+}
+.all p{
+	background: rgba(255,255,255, .3);
+	margin-bottom: 10px;
+	border-radius: 4px;
+}
+.all textarea{
+	max-width: 100%;
+	min-width: 100%;
+}
+#create textarea{
+	max-width: 100%;
+	min-width: 100%;
+}
+#create input{
+	max-width: 100%;
+	min-width: 100%;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+/*.down2{
+    width: 100%;
+	display: none;
+	color: grey;
+	word-wrap: break-word
+}
+*/
